@@ -10,7 +10,7 @@ v<-draw.pairwise.venn(
   area1=82,
   area2=268,
   cross.area=5,
-  category=c("massIR","mergeIR"),
+  category=c("subePRS","mainPRS"),
   ext.percent=c(0,0,0),
   ext.dist=0,
   fill=c("darksalmon","hotpink3"),

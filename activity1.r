@@ -4,7 +4,7 @@ library(ggplot2)
 library(VennDiagram) 
 
 
-pdf("outputs/1746297903_massIR_mergeIR.pdf")
+pdf("outputs.pdf")
 
 v<-draw.pairwise.venn(
   area1=82,
